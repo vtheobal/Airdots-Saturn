@@ -67,15 +67,15 @@
 
 Вот так выглядит 3д прототип финального версии с крышкой
 
-<img src="/images/3_prototype_1.jpg" width=50% height=50%>
+<img src="/images/3_prototype_1.png" width=50% height=50%>
 
 Без крышки
 
-<img src="/images/3_prototype_2.jpg" width=50% height=50%>
+<img src="/images/3_prototype_2.png" width=50% height=50%>
 
 Без крышки сзади
 
-<img src="/images/3_prototype_3.jpg" width=50% height=50%>
+<img src="/images/3_prototype_3.png" width=50% height=50%>
 
 # Сборка
 
