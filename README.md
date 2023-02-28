@@ -98,5 +98,4 @@
 
 ### Благодарность
 
-Хочу поблагодарить [Александа](https://github.com/canisadidas) за помощь в сборке,
-И [Алексея](https://www.avito.ru/user/64d04db35292b3d9d227f6e159f1c1b1/profile?id=1844232270&iid=1844232270&src=messenger&page_from=from_item_messenger) с авито, который консультирует меня по вопросам печати.
+Хочу поблагодарить [Александа](https://github.com/canisadidas) за помощь в сборке, и [Алексея](https://www.avito.ru/user/64d04db35292b3d9d227f6e159f1c1b1/profile?id=1844232270&iid=1844232270&src=messenger&page_from=from_item_messenger) с авито, который консультирует меня по вопросам печати.
