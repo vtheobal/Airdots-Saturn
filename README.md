@@ -29,8 +29,7 @@
 
 Вид спереди с вырезом под кнопки и экранчик
 
-<img src="[/images/1 prototype_2.jpg](https://github.com/vtheobal/Airdots-Saturn/blob/main/images/1%20prototype_1.jpg)" width=50% height=50%>
-![1_prototype_1](https://github.com/vtheobal/Airdots-Saturn/blob/main/images/1%20prototype_1.jpg)
+<img src="https://github.com/vtheobal/Airdots-Saturn/blob/main/images/1%20prototype_1.jpg" width=50% height=50%>
 
 Как первый прототип лежит в ладони
 
