@@ -1,5 +1,5 @@
 <h1 align="center">
-	:sassy_man: Airdots Saturn
+	:headphones: Airdots Saturn
 </h1>
 
 # История создания
