@@ -28,7 +28,7 @@
 В первый прототип удалось собрать все компоненты и прикинуть как лучше расположить компоненты чтобы выйграть в габаритных размерах.
 
 Вид спереди с вырезом под кнопки и экранчик
-![1_prototype_1](/images/1_prototype_1.jpg)
+![1_prototype_1]([/images/1_prototype_1.jpg](https://github.com/vtheobal/Airdots-Saturn/blob/main/images/1%20prototype_1.jpg))
 
 Как первый прототип лежит в ладони
 ![1_prototype_2.jpg](/images/1 prototype_2.jpg)
