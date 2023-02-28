@@ -45,13 +45,16 @@
 Прилагаются фото
 
 Кейс с работающим экранчиком
-![2 prototype_1](/images/2 prototype_1.jpg)
+
+<img src="/images/2 prototype_1.jpg" width=50% height=50%>
 
 Как второй прототип лежит в ладони
-![2 prototype_2.jpg](/images/2 prototype_2.jpg)
+
+<img src="/images/2 prototype_2.jpg" width=50% height=50%>
 
 Вид кейса сзади
-![2 prototype_3.jpg](/images/2 prototype_3.jpg)
+
+<img src="/images/2 prototype_3.jpg" width=50% height=50%>
 
 
 # Финальный прототип / Третий прототип
@@ -63,7 +66,7 @@
 Разумеется все модели будут приложены к проекту чтобы вы могли распечатать их на 3д принтере и внести свои корректировки в 3д модель для компаса.
 
 Вот так выглядит 3д прототип финального версии Airdots Saturn
-![menu](/pictures/menu.png)
+<img src="---" width=50% height=50%>
 
 
 # Сборка
