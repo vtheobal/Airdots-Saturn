@@ -43,7 +43,7 @@
 Прилагаются фото
 
 Кейс с работающим экранчиком
-![2 prototype_1.jpg](/images/2 prototype_1.jpg)
+![2 prototype_1](/images/2 prototype_1.jpg)
 
 Как второй прототип лежит в ладони
 ![2 prototype_2.jpg](/images/2 prototype_2.jpg)
