@@ -33,7 +33,7 @@
 
 Как первый прототип лежит в ладони
 
-<img src="/images/1 prototype_2.jpg" width=50% height=50%>
+<img src="/images/1_prototype_2.jpg" width=50% height=50%>
 
 
 # Второй прототип
@@ -46,15 +46,15 @@
 
 Кейс с работающим экранчиком
 
-<img src="/images/2 prototype_1.jpg" width=50% height=50%>
+<img src="/images/2_prototype_1.jpg" width=50% height=50%>
 
 Как второй прототип лежит в ладони
 
-<img src="/images/2 prototype_2.jpg" width=50% height=50%>
+<img src="/images/2_prototype_2.jpg" width=50% height=50%>
 
 Вид кейса сзади
 
-<img src="/images/2 prototype_3.jpg" width=50% height=50%>
+<img src="/images/2_prototype_3.jpg" width=50% height=50%>
 
 
 # Финальный прототип / Третий прототип
@@ -86,8 +86,8 @@
 
 ## Компоненты
 
-Из закупок вам понадоится: 
-- нормально размонкнутая кнопка;
+Из закупок вам понадобится: 
+- нормально разомкнутая кнопка;
 - индикатор заряда;
 
 
