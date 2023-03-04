@@ -89,7 +89,7 @@
 Для правильной сборки индикатора необходимо подрезать текстолит как показано на картинке ниже.
 Рекомендую это сделать кусачками и перед сборкой.
 
-<img src="/images/indicator_mounting.jpg" width=50% height=50%>
+<img src="/images/indicator_mounting.png" width=50% height=50%>
 
 
 ## Компоненты
